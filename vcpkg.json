@@ -1,0 +1,7 @@
+{
+  "name": "observable-memory",
+  "version": "0.1.0",
+  "dependencies": [
+    "ms-gsl"
+  ]
+}

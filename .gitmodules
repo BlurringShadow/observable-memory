@@ -1,0 +1,6 @@
+[submodule "stdsharp"]
+	path = stdsharp
+	url = https://github.com/BlurringShadow/stdsharp.git
+[submodule "foonathan/memory"]
+	path = foonathan/memory
+	url = https://github.com/foonathan/memory.git
