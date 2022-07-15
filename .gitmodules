@@ -1,6 +1,0 @@
-[submodule "foonathan/memory"]
-	path = foonathan/memory
-	url = https://github.com/foonathan/memory.git
-[submodule "microsoft/GSL"]
-	path = microsoft/GSL
-	url = https://github.com/microsoft/GSL.git

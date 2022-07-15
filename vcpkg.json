@@ -1,5 +1,5 @@
 {
   "name": "observable-memory",
   "version": "0.1.0",
-  "dependencies": []
+  "dependencies": ["foonathan-memory", "ms-gsl", "stdsharp"]
 }
